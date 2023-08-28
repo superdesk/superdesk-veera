@@ -20,6 +20,7 @@ if init_data.exists():
 
 INSTALLED_APPS = [
     "apps.languages",
+    "veera.ingest",
 ]
 
 PLANNING_EVENT_TEMPLATES_ENABLED = True
